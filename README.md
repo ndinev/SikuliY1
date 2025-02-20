@@ -1,10 +1,6 @@
-******** Paused (not available) till somewhen in 2025 ********
----
+******** The repo is forked in order to add my custom feathures ********
 
-Due to private priorities I did not have the time during 2024 nor could I concentrate on SikuliX.
-I cannot yet predict when or if I continue.
-
----
+Below is the original readme 
 
 [![SikuliX](https://raw.githubusercontent.com/RaiMan/SikuliX1/master/Support/sikulix-red.png)](https://sikulix.github.io)
 
