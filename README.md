@@ -1,4 +1,4 @@
-******** The repo is forked in order to add my custom feathures ********
+******** The repo is forked in order to add my custom features ********
 
 Below is the original readme 
 
